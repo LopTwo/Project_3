@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/LopTwo/Project_3#readme",
   "dependencies": {
+    "mocha": "^6.0.2",
     "mongoose": "^5.4.19"
   }
 }
